@@ -15,26 +15,27 @@ Jamur adalah salah satu sumber makanan yang menarik, namun penting untuk mengeta
 - Jamur beracun lebih sering muncul pada musim gugur (a) dan musim panas (u).
 
 **Bentuk Cap**
-Bentuk cap seperti bell, conical, convex, flat, knobbed, dan sunken cenderung beracun.
-Hanya jamur dengan cap berbentuk p yang umumnya dapat dimakan.
+- Bentuk cap seperti bell, conical, convex, flat, knobbed, dan sunken cenderung beracun.
+- Hanya jamur dengan cap berbentuk p yang umumnya dapat dimakan.
 
 **Warna Cap**
-Cap berwarna buff dan gray biasanya aman untuk dimakan.
-Cap berwarna red, k, o, pink, dan r sering kali beracun.
-Warna Gill
+- Cap berwarna buff dan gray biasanya aman untuk dimakan.
+- Cap berwarna red, k, o, pink, dan r sering kali beracun.
+  
+**Warna Gill**
+- Gill berwarna b dan w umumnya dapat dimakan.
+- Gill berwarna e, k, n, p, r, u, dan y cenderung beracun.
 
-Gill berwarna b dan w umumnya dapat dimakan.
-Gill berwarna e, k, n, p, r, u, dan y cenderung beracun.
-Warna Stem
+**Warna Stem** 
+- Stem berwarna g dan w biasanya aman untuk dimakan.
+- Stem berwarna e, k, l, n, o, p, r, u, dan y sering kali beracun.
 
-Stem berwarna g dan w biasanya aman untuk dimakan.
-Stem berwarna e, k, l, n, o, p, r, u, dan y sering kali beracun.
-Habitat
+**Habitat**
+- Jamur yang tumbuh di woods, grasses, h, dan meadows cenderung beracun.
+- Hanya jamur yang tumbuh di habitat I yang umumnya tidak beracun.
 
-Jamur yang tumbuh di woods, grasses, h, dan meadows cenderung beracun.
-Hanya jamur yang tumbuh di habitat I yang umumnya tidak beracun.
-Ukuran
+**Ukuran**
+- Jamur yang dapat dimakan biasanya memiliki diameter cap dan lebar stem yang lebih besar dibandingkan jamur beracun.
 
-Jamur yang dapat dimakan biasanya memiliki diameter cap dan lebar stem yang lebih besar dibandingkan jamur beracun.
 Sehingga, jamur yang dapat dimakan memiliki karakteristik khusus yang membedakannya dari jamur beracun. Keberagaman jamur yang dapat dimakan jauh lebih sedikit, dengan ciri-ciri yang lebih spesifik, memiliki ukuran cap dan stem yang lebih besar, serta ditemukan pada musim tertentu saja..
 
