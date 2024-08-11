@@ -1,7 +1,8 @@
 # Data Science Project: Memprediksi apakah suatu jamur dapat dimakan atau beracun berdasarkan karakteristik fisiknya
-Proyek ini dibuat oleh Kaggle untuk playground-series season 4, episode 8
 
 ## Informasi dataset
+Dataset ini dibuat oleh Kaggle untuk playground-series season 4, episode 8
+
 dataset ini mencakup deskripsi sampel hipotetis yang sesuai dengan 23 spesies jamur berinsang dalam Keluarga Agaricus dan Lepiota. Setiap spesies diidentifikasi sebagai dapat dimakan dan beracun. 
 
 Dataset dapat diakses pada link: https://www.kaggle.com/competitions/playground-series-s4e8/overview
